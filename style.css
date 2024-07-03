@@ -1,0 +1,36 @@
+table,
+th,
+td {
+  border: 1px solid;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  background-color: gray;
+}
+.heading {
+  background-color: black;
+  color: white;
+}
+.ph {
+  background-color: white;
+  color: rgb(114, 114, 245);
+}
+.se2040 {
+  background-color: purple;
+  color: #eda412c1;
+}
+.se2832 {
+  background-color: green;
+  color: orange;
+}
+.se2840 {
+  background-color: aqua;
+  color: black;
+}
+h2 {
+  text-align: center;
+}
